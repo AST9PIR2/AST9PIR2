@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/2_Aufgabe/main.cpp
+iostream
+-
+
